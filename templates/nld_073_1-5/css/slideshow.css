@@ -1,0 +1,120 @@
+/* CSS Document */
+.noob_sample_new{
+	float: left;
+	width: 582px;
+	height: 185px;
+	padding: 0px; 
+	margin: 0px;
+	clear: left;
+}
+.mask1{
+	float: left;
+	position:relative;
+	width:580px;
+	height: 183px;
+	overflow:hidden;
+	padding: 0px;
+	margin: 0px;
+	clear: left;
+}
+#box8{
+	position: absolute;
+	z-index: 0;
+	padding: 0px;
+	margin: 0px;
+	width:580px;
+	height: 183px;	
+}
+#box8 div{
+	float:left;
+	width:580px;
+	height: 183px;
+	padding: 0px;
+	margin: 0px;
+}
+.slide_image{
+	float: left;
+	width:580px;
+	height: 183px;
+	padding: 0px; 
+	margin: 0px;
+	clear: left;
+}	
+.slide_image img {
+	float: left;
+	width: 580px !important;
+	height: 183px !important;
+	padding: 0px;
+	margin: 0px;
+	border: none;
+	clear: left;
+}
+
+
+
+
+#slide_buttons {
+	float: right;
+	margin: 0px;
+	padding: 0px;	
+	width: 108px;
+	height: 185px;
+	clear: right;
+}
+#handles8_more1 {
+	float: left;
+	margin: 0px;
+	padding: 0px;	
+	width: 108px;
+	height: 185px;
+	clear: left
+}
+#handles8_more1 div.mini_image {
+	float: left;
+	width: 108px;
+	height: 37px;
+	padding: 0px;
+	margin: 0px;
+	clear: left;
+}
+#handles8_more1 div.mini_image:hover {
+	float: left;
+	width: 108px;
+	height: 37px;
+	padding: 0px;
+	margin: 0px;
+	clear: left;
+}
+#handles8_more1 div.mini_image.active {
+	float: left;
+	width: 108px;
+	height: 37px;
+	padding: 0px;
+	margin: 0px;
+	clear: left;
+}
+#handles8_more1 div.mini_image.active:hover {
+	float: left;
+	width: 108px;
+	height: 37px;
+	padding: 0px;
+	margin: 0px;
+	clear: left;
+}
+.mini_image {
+	float: left;
+	width: 108px;
+	height: 37px;
+	padding: 0px;
+	margin: 0px;
+	clear: left;
+}
+.mini_image img {
+	float: left;
+	width: 108px !important;
+	height: 35px !important;
+	padding: 0px;
+	margin: 0px;
+	border: none;
+	clear: left;
+}

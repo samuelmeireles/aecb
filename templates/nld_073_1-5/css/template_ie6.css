@@ -1,0 +1,46 @@
+/* CSS Document */
+#topmenu ul.menu-nav li#current.active a:link, #topmenu ul.menu-nav li#current.active a:visited{
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/templates/nld_073_1.5/images/topmenu_active.png", sizingMethod="scale");
+}
+#topmenu ul.menu-nav li#current.active a:hover{
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/templates/nld_073_1.5/images/topmenu_active.png", sizingMethod="scale");
+}
+#topmenu ul.menu-nav li.parent.active a:link, #topmenu ul.menu-nav li.parent.active a:visited{
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/templates/nld_073_1.5/images/topmenu_active.png", sizingMethod="scale");
+}
+#topmenu ul.menu-nav li.parent.active a:hover{
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/templates/nld_073_1.5/images/topmenu_active.png", sizingMethod="scale");
+}
+#topmenu ul.menu-nav li ul li a:link, #topmenu ul.menu-nav li ul li a:visited{
+	filter: none;
+}
+#topmenu ul.menu-nav li ul li a:hover{
+	filter: none;
+}
+#topmenu ul.menu-nav li.parent.active ul li a:link, #topmenu ul.menu-nav li.parent.active ul li a:visited, 
+#topmenu ul.menu-nav li#current.parent.active ul li a:link, #topmenu ul.menu-nav li#current.parent.active ul li a:visited{
+	filter: none;
+}
+#topmenu ul.menu-nav li.parent.active ul li a:hover ,#topmenu ul.menu-nav li#current.parent.active ul li a:hover {
+	filter: none;
+}
+#topmenu ul.menu-nav li.parent.active ul li#current.active a:link, #topmenu ul.menu-nav li.parent.active ul li#current.active a:visited{
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/templates/nld_073_1.5/images/topmenu_active.png", sizingMethod="scale");
+}
+#topmenu ul.menu-nav li.parent.active ul li#current.active a:hover {
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/templates/nld_073_1.5/images/topmenu_active.png", sizingMethod="scale");
+}
+ul#mainlevel-nav li a#active_menu-nav {
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/templates/nld_073_1.5/images/topmenu_active.png", sizingMethod="scale");
+}
+ul#mainlevel-nav li a#active_menu-nav:hover {
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/templates/nld_073_1.5/images/topmenu_active.png", sizingMethod="scale");
+}
